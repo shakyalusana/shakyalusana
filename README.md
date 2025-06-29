@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lusana Shakya</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">Passionate about Quality Assurance</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakyalusana&label=Profile%20views&color=0e75b6&style=flat" alt="shakyalusana" /> </p>
 
